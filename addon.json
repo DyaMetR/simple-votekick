@@ -7,7 +7,7 @@
 		"*.psd",
 		"*.vcproj",
 		"*.svn*",
-		"*.git",
+		"*.git*",
 		"LICENSE",
 		"README.md"
 	]
